@@ -4,7 +4,7 @@
 
 That's where I manage way too many repositories.
 
-> 🔎 Use the search in the [Repositories](https://github.com/weibeld?tab=repositories) tab to find what you need
+> 🔎 Use the search in the [Repositories](https://github.com/weibeld?tab=repositories) tab to find what you need.
 
 
 <!--
