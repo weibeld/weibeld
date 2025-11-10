@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Krungthep&weight=600&size=32&pause=2000&color=3a3a3a&background=32FF5900&vCenter=true&width=435&height=30&lines=%E2%9C%A8+Welcome)](https://git.io/typing-svg)
 
-#### ...to my GitHub profile ✨
+**...to my GitHub profile ✨**
 
 That's where I manage way too many repositories.
 
-> 🔎 Use the search in the [**Repositories**](https://github.com/weibeld?tab=repositories) tab to find what you need
+> 🔎 Use the search in the [Repositories](https://github.com/weibeld?tab=repositories) tab to find what you need
 
 
 <!--
