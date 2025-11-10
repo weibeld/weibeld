@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+You're looking at the profile of:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Krungthep&weight=600&size=32&pause=2000&color=4A4A4A&background=32FF59AC&center=true&vCenter=true&width=435&lines=%E2%9C%A8+weibeld)](https://git.io/typing-svg)
+
 <!--
 **weibeld/weibeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
