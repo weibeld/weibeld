@@ -1,8 +1,11 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Krungthep&weight=600&size=32&pause=2000&color=3a3a3a&background=32FF5900&vCenter=true&width=435&height=30&lines=%E2%9C%A8+Welcome)](https://git.io/typing-svg)
 
-You're looking at the profile of:
+#### ...to my GitHub profile ✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Krungthep&weight=600&size=32&pause=2000&color=4A4A4A&background=32FF59AC&center=true&vCenter=true&width=435&lines=%E2%9C%A8+weibeld)](https://git.io/typing-svg)
+That's where I manage way too many repositories.
+
+> 🔎 Use the search to find what you need
+
 
 <!--
 **weibeld/weibeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Typing SVG edit link: https://readme-typing-svg.herokuapp.com/demo/?font=Krungthep&weight=600&size=32&pause=2000&color=3A3A3A&background=32FF5900&vCenter=true&height=30&lines=%E2%9C%A8+Welcome
 -->
